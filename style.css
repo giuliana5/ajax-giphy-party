@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  font-family: "Calibri";
+  font-size: 120%;
+}
+
+form {
+  padding: 1em;
+}
+
+h1,
+form {
+  color: white;
+  text-align: center;
+}
+
+#search-box {
+  padding: 5px;
+}
+
+#search {
+  background-color: #E200F7;
+}
+
+#remove {
+  background-color: #FF321A;
+}
+
+hr {
+  border: 2px solid #FF901B;
+  background-color: #450EFF;
+}
+
+button {
+  background-color: transparent;
+  color: white;
+  padding: 5px;
+  width: 8em;
+}
+
+button:hover {
+  font-weight: bold;
+}
