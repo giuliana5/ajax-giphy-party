@@ -41,3 +41,13 @@ button {
 button:hover {
   font-weight: bold;
 }
+
+#gif-container {
+  text-align: center;
+}
+
+.gifs {
+  width: 20%;
+  max-width: 20%;
+  max-height: 20%;
+}
